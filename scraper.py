@@ -4,6 +4,9 @@ myvar = "He said 'hello'"
 my age = 25
 mylist = ["this", "that", "theother"]
 mynumlist = [1, 15, 25, 35]
+print myvar
+print myage
+print mylist
 listlength = len(mylist)
 # import scraperwiki
 # import lxml.html
