@@ -7,6 +7,7 @@ mynumlist = [1, 15, 25, 35]
 print myvar
 print myage
 print mylist
+print mynumlist
 listlength = len(mylist)
 # import scraperwiki
 # import lxml.html
